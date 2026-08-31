@@ -1,0 +1,9 @@
+# Dataset local trop volumineux
+data/*.csv
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Fichiers temporaires de Jupyter
+.ipynb_checkpoints/
