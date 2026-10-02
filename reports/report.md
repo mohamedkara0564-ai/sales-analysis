@@ -45,17 +45,23 @@ Les étapes réalisées sont :
 
 ## 5. Résultats principaux
 
-- Chiffre d'affaires total : **[montant] £**
-- Nombre de commandes : **[nombre]**
-- Nombre de clients : **[nombre]**
-- Panier moyen : **[montant] £**
-- Produit le plus vendu : **[produit]**
-- Produit générant le plus de chiffre d'affaires : **[produit]**
-- Principal marché : **[pays]**
+- Chiffre d'affaires total : **8,887,208.89 £**
+- Nombre de commandes : **18,532**
+- Nombre de clients : **4,338**
+- Panier moyen : **479.56 £**
+- Produit le plus vendu : **PAPER CRAFT , LITTLE BIRDIE**
+- Produit générant le plus de chiffre d'affaires : **PAPER CRAFT , LITTLE BIRDIE**
+- Principal marché : **United Kingdom**
+- Quantité totale vendue :  **5,152,002**
+- Quantité moyenne par commande :  **278**
 
 ## 6. Insights métier
 
-Ajoute ici les cinq observations préparées dans ton notebook.
+- Évolution des ventes
+- Produits
+- Marchés géographiques
+- Clients
+- Segmentation RFM
 
 ## 7. Recommandations
 
